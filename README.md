@@ -1,4 +1,5 @@
 <div align="center">
+  <p>出處：https://github.com/open-mmlab/mmsegmentation</p>
   <img src="resources/mmseg-logo.png" width="600"/>
   <div>&nbsp;</div>
   <div align="center">
